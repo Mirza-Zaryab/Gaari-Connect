@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\auth",
+    "\\src\\app\\auth\\store",
+    "\\src\\app\\main"
+  ],
+  "SelectedNode": "\\src\\app\\auth\\store\\registerSlice.js",
+  "PreviewInSolutionExplorer": false
+}
