@@ -1,0 +1,139 @@
+.Header {
+    position: fixed;
+    width: 100%;
+    
+    height: 76px;
+
+    background-color: #FFFFFF;
+    /* box-shadow: 0px 4px 12px rgba(102, 112, 133, 0.15); 
+backdrop-filter: blur(207px); */
+
+}
+.headimage{
+    width:167;
+    height: 22;
+}
+.headtext{
+    font-size: 14px;
+    font-weight: 500px;
+    margin-left: 38%;
+    color: #000000;
+
+}
+.headM1{
+    width: 147px;
+    height: 44px;
+    border-radius: 8px;
+}
+.headsign{
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight:500px;
+   color: #000000;
+}
+.headbutton{
+    width: 111px;
+    height: 36px;
+     border-radius:4px;
+     background-color: #D22A8F;
+
+    font-size: 12px;
+}
+.signinheading{
+    font-size: 24px;
+    font-weight: 600px;
+    color: #101828;
+}
+.signinp{
+    font-size: 14px;
+    font-weight: 400px;
+    color:#667085;
+}
+
+.ft {
+    margin-left: 30px;
+    opacity: 0.5;
+}
+
+.sa {
+    font-size: 16px;
+    font-weight: 500px;
+}
+
+.sap {
+    font-weight: 500px;
+    font-size: 14px;
+    color: #D22A8F;
+}
+
+
+
+.arow {
+    margin-left: 20px;
+    background: #000000;
+    border-radius: 50%;
+    color: #FFFFFF;
+}
+
+.footer {
+    background-color: #000000;
+    
+}
+
+
+.f1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+    margin-top: 40px;
+    color: #FFFFFF;
+}
+
+.f2 {
+    margin-left: 150px;
+}
+
+.fp {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 42px;
+    margin-top: 8px;
+    /* or 300% */
+
+    letter-spacing: 0.1px;
+
+    color: #FFFFFF;
+}
+
+.S {
+    margin-left: 24px;
+}
+
+.loginI {
+    width: 730px;
+    height: 900px;
+}
+
+.LG {
+    margin-top: 30%;
+}
+
+.p {
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+.rangepicker{
+    background-color:#D22A8F!important;
+}
+
+
+
